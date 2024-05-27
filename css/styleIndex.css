@@ -80,26 +80,8 @@ footer {
     text-align: center;
 }
 
-#socialmedia {
-    margin-top: 20px;
-}
-
-#socialmedia span {
-    display: inline-block;
-    margin-right: 10px;
-}
-
 .footer {
     max-width: 600px;
     margin: 0 auto;
     left: 0;
-}
-
-.footer ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.footer li {
-    margin-bottom: 10px;
 }
